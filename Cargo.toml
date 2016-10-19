@@ -1,0 +1,9 @@
+[package]
+name = "qlearning"
+version = "0.1.0"
+authors = ["Wu Young <doomsplayer@gmail.com>"]
+
+[dependencies]
+rulinalg = "0.3.4"
+rand = "0.3.14"
+itertools = "0.5.2"
