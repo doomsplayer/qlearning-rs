@@ -7,6 +7,7 @@ Currently it only has a naive implemention, of which every action is determinist
 a distribution of states, e.g. Multinomial.
 
 TODO: 
-- [ ] Documentation
+- [ ] Documentation.
+- [ ] Convergence test.
 - [ ] Support for a distribution of action result.
 - [ ] Publish to crates.io
